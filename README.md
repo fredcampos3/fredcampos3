@@ -47,16 +47,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1wdjZrZXg4ZHQ3dzFrcnJjdzUyYzN4OWlpNmFzMmVsdHdibXhuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fredcampos3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fredcampos3&radius=16&theme=vue&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
